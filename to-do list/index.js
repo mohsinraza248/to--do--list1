@@ -92,4 +92,4 @@ function check() {
     }
 
 }
-addButton.eventListener('click', check);
+addButton.addEventListener('click', check);
